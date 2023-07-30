@@ -1,0 +1,12 @@
+C:\Users\wlad\Downloads\Melior Dev Test\Melior Dev Test\Melior.InterviewQuestion\bin\Debug\net6.0\Melior.InterviewQuestion.deps.json
+C:\Users\wlad\Downloads\Melior Dev Test\Melior Dev Test\Melior.InterviewQuestion\bin\Debug\net6.0\Melior.InterviewQuestion.dll
+C:\Users\wlad\Downloads\Melior Dev Test\Melior Dev Test\Melior.InterviewQuestion\bin\Debug\net6.0\Melior.InterviewQuestion.pdb
+C:\Users\wlad\Downloads\Melior Dev Test\Melior Dev Test\Melior.InterviewQuestion\obj\Debug\net6.0\Melior.InterviewQuestion.csproj.AssemblyReference.cache
+C:\Users\wlad\Downloads\Melior Dev Test\Melior Dev Test\Melior.InterviewQuestion\obj\Debug\net6.0\Melior.InterviewQuestion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wlad\Downloads\Melior Dev Test\Melior Dev Test\Melior.InterviewQuestion\obj\Debug\net6.0\Melior.InterviewQuestion.AssemblyInfoInputs.cache
+C:\Users\wlad\Downloads\Melior Dev Test\Melior Dev Test\Melior.InterviewQuestion\obj\Debug\net6.0\Melior.InterviewQuestion.AssemblyInfo.cs
+C:\Users\wlad\Downloads\Melior Dev Test\Melior Dev Test\Melior.InterviewQuestion\obj\Debug\net6.0\Melior.InterviewQuestion.csproj.CoreCompileInputs.cache
+C:\Users\wlad\Downloads\Melior Dev Test\Melior Dev Test\Melior.InterviewQuestion\obj\Debug\net6.0\Melior.InterviewQuestion.dll
+C:\Users\wlad\Downloads\Melior Dev Test\Melior Dev Test\Melior.InterviewQuestion\obj\Debug\net6.0\refint\Melior.InterviewQuestion.dll
+C:\Users\wlad\Downloads\Melior Dev Test\Melior Dev Test\Melior.InterviewQuestion\obj\Debug\net6.0\Melior.InterviewQuestion.pdb
+C:\Users\wlad\Downloads\Melior Dev Test\Melior Dev Test\Melior.InterviewQuestion\obj\Debug\net6.0\ref\Melior.InterviewQuestion.dll
